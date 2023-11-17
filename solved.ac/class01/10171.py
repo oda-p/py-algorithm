@@ -2,11 +2,7 @@
 # -*- coding: utf-8 -*- 
 
 def main():
-    print('''
-    \    /\
-    )  ( ')
-    (  /  )
-    \(__)|''')
+    print('''\    /\\\n )  ( ')\n(  /  )\n \(__)|''')
 
 if __name__ == "__main__":
     main()
